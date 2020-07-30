@@ -20,9 +20,9 @@ Education
 
 Work in Progress
 ======
-  <ul>{% for post in site.publications %}
+  <ul> {% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %} </ul>
 
 
 Research experience
@@ -58,7 +58,7 @@ Software
   
 Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
