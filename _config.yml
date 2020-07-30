@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cesar Barilla"
   avatar           : "Barilla_2.jpg"
-  bio              : "PhD Student in Economics at Columbia University. <br/> Formerly ENS (B/L 2015), MA in Economics at PSE and MSc Mathematics at UPMC"
+  bio              : "PhD Student in Economics at Columbia University. </br> </br> Economic Theory."
   location         : "New York"
   employer         :
   pubmed           : 
@@ -227,6 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _workingpapers
+  - scope:
+      path: ""
+      type: workingpapers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
   # _presentations
   - scope:
       path: ""
