@@ -15,7 +15,7 @@ Education
 * M.A. in Economics, Paris School of Economics, Masters Analysis and Economic Policy, 2019
 * M.Sc. in Mathematics, Universite Paris Sorbonne (UPMC-Jussieu), Mathematics for Modeling, 2018
 * B.A. in Economics, Universite Paris Dauphine, 2016
-* Eleve fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Supérieure (ENS Ulm), 2015-2019
+* Eleve fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Superieure (ENS Ulm), 2015-2019
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
 Work in Progress
@@ -38,7 +38,7 @@ Research experience
   
 * 2018 : Masters Thesis in Mathematics
   * Universite Paris Sorbonne (UPMC-Jussieu)
-  * Subject : Optimal transport coupling in multi-populations mean-field games, dyna- mic matching equilibrium with externalities and applications to urban planning.
+  * Subject : Optimal transport coupling in multi-populations mean-field games, dynamic matching equilibrium with externalities and applications to urban planning.
   * Supervisors : Guillaume Carlier (CEREMADE), Jean-Michel Lasry (CEREMADE)
   
 * Summer 2016: Research Assistant
@@ -46,18 +46,17 @@ Research experience
   * Subject : Theoretical modeling of financial instability, building on empirical work by Creel, Hubert, Labondance (2015)
   * Supervisor : Jerome Creel
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
   
-Talks
+Software
+======
+* Matlab
+* R
+* Julia
+* Python
+* STATA
+* Latex
+  
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -69,7 +68,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  Languagues
+ Languages
 ======
 * French (Native)
 * English (Fluent)
