@@ -21,7 +21,7 @@ Education
 Working Papers
 ======
   <ul> {% for post in site.workingpapers %}
-    {% include archive-single-wp-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %} </ul>
 
 
