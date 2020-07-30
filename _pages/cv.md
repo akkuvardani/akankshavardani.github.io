@@ -13,10 +13,10 @@ Education
 ======
 * Ph.D in Economics, Columbia University, 2024 (expected)
 * M.A. in Economics, Paris School of Economics, Masters Analysis and Economic Policy, 2019
-* M.Sc. in Mathematics, Université Paris Sorbonne (UPMC-Jussieu), Mathematics for Modeling, 2018
-* B.A. in Economics, Université Paris Dauphine, 2016
-* Élève fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Supérieure (ENS Ulm), 2015-2019
-* CPGE B/L (Humanities and Social Sciences), Lycée Henri IV, 2013-2015
+* M.Sc. in Mathematics, Universite Paris Sorbonne (UPMC-Jussieu), Mathematics for Modeling, 2018
+* B.A. in Economics, Universite Paris Dauphine, 2016
+* Eleve fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Supérieure (ENS Ulm), 2015-2019
+* CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
 Work in Progress
 ======
@@ -37,14 +37,14 @@ Research experience
   * Supervisor: Alfred Galichon (NYU)
   
 * 2018 : Masters Thesis in Mathematics
-  * Université Paris Sorbonne (UPMC-Jussieu)
+  * Universite Paris Sorbonne (UPMC-Jussieu)
   * Subject : Optimal transport coupling in multi-populations mean-field games, dyna- mic matching equilibrium with externalities and applications to urban planning.
   * Supervisors : Guillaume Carlier (CEREMADE), Jean-Michel Lasry (CEREMADE)
   
 * Summer 2016: Research Assistant
   * OFCE Paris
   * Subject : Theoretical modeling of financial instability, building on empirical work by Creel, Hubert, Labondance (2015)
-  * Supervisor : Jérôme Creel
+  * Supervisor : Jerome Creel
   
 Skills
 ======
@@ -69,11 +69,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  Languagues
+======
+* French (Native)
+* English (Fluent)
+* Spanish (Notions)
+* Italian, German, Russian, Hindi (Beginner)
+  
 Other Activities
 ======
 * Music : Long-standing musical experience and practice, frequent concerts in semi- professional contexts, professional studio and home studio recordings, arrangement, composition, band-leading
    * Instruments Bass, Clarinet, Guitar, Tenor Saxophone, Keys.
-   * Chiara & César Trio (2016-) Bass/guitar/clarinet/vocals and band leader, frequent concerts, composition of original songs, recording ;
+   * Chiara & Cesar Trio (2016-) Bass/guitar/clarinet/vocals and band leader, frequent concerts, composition of original songs, recording ;
    * Caravan quartet (2018-2019) Bass, private concerts for galas or cocktails, organisation of jam sessions ;
    * Enswing Big Band (2017-2019) Bass (initially saxophone/clarinet), arranging, administrative and logistic responsibilities ;
    * L'Ernestophone : Fanfare (brass band) of the ENS (2015?2017) Saxophone/clarinet, Musical and administrative direction ;
