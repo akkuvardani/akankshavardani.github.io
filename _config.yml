@@ -183,7 +183,10 @@ collections:
     permalink: /:collection/:path/
   workingpapers:
     output: true
-    permalink: /:collection/:path/    
+    permalink: /:collection/:path/
+  otherworks:
+    output: true
+    permalink: /:collection/:path/        
   presentations:
     output: true
     permalink: /:collection/:path/
@@ -235,7 +238,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true
+  # _otherworks
+  - scope:
+      path: ""
+      type: otherworks
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false             
   # _presentations
   - scope:
       path: ""
