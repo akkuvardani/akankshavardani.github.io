@@ -18,11 +18,6 @@ Education
 * Eleve fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Superieure (ENS Ulm), 2015-2019
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
-Publications
-======
-  <ul> {% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %} </ul>
 
 Working Papers
 ======
