@@ -38,7 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    	{% if post.notes %}<p class="archive__item-excerpt" itemprop="description">{{ post.notes }}</p> {% endif %}   
+    	  {% if post.notes %}<p class="archive__item-excerpt" itemprop="description">{{ post.notes }}</p> {% endif %}   
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
