@@ -25,3 +25,7 @@ Work in Progress
 
 Other work
 ======
+
+{% for post in site.otherworks reversed %}
+  {% include archive-single.html %}
+{% endfor %}
