@@ -55,14 +55,6 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-    {% if post.citation and post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"> Citation: {{ post.citation }} <a href="{{ post.paperurl }}"> <u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p class="archive__item-excerpt" itemprop="description"> Citation : {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p class="archive__item-excerpt" itemprop="description"> Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
 
   </article>
 </div>
