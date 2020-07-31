@@ -15,7 +15,7 @@ Below is a list of recent (and also not so recent) research work.
 
 
 Working Papers
-======
+===
 
 {% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
@@ -23,11 +23,11 @@ Working Papers
 
 
 Work in Progress
-======
+===
 
 
 Other work
-======
+===
 
 {% for post in site.otherworks reversed %}
   {% include archive-single.html %}
