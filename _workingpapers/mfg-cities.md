@@ -16,4 +16,4 @@ We propose a (toy) MFG model for the evolution of residents and firms densities,
 
 Some examples of simulations :
 
-<img src="./images/Simu1D_25.gif" style="display: block; margin: auto;" />
+<img src="{{site.url}}/images/Simu1D_25.gif" style="display: block; margin: auto;" />
