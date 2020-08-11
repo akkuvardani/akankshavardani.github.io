@@ -43,7 +43,7 @@
         {% if post.collection == 'teaching' %}
          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'workingpapers' or post.collection == 'otherworks' %}
-         <p class="archive__item-excerpt" itemprop="description"> Last Updated : <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         <p class="archive__item-excerpt" itemprop="description"> Working Paper. Last Updated : <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% elsif post.collection == 'publications' %}
           <p class="archive__item-excerpt" itemprop="description"> Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}

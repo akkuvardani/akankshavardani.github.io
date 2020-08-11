@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my [full CV here](http://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)
+
 Education
 ======
 * Ph.D in Economics, Columbia University, 2024 (expected)
@@ -19,9 +21,9 @@ Education
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
 
-Working Papers
+Papers
 ======
-  <ul> {% for post in site.workingpapers %}
+  <ul> {% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %} </ul>
 
@@ -69,7 +71,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
- Languages
+Languages
 ======
 * French (Native)
 * English (Fluent)
