@@ -14,7 +14,10 @@ author_profile: true
 Below is a list of recent (and also not so recent) research work.
 
 
-{% for post in site.research reversed %}
+Working Papers
+===
+
+{% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
