@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-Below is a list of recent research work.
+Below is a list of recent (and also not so recent) research work.
 
 
-{% for post in site.workingpapers reversed %}
+{% for post in site.research reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
