@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my [full CV here]{https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf}
+
 Education
 ======
 * Ph.D in Economics, Columbia University, 2024 (expected)
