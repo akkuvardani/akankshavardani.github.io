@@ -12,7 +12,7 @@ redirect_from:
 Download my [full CV here](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)
 
 Education
-======
+---
 * Ph.D in Economics, Columbia University, 2024 (expected)
 * M.A. in Economics, Paris School of Economics, Masters Analysis and Economic Policy, 2019
 * M.Sc. in Mathematics, Sorbonne University (UPMC-Jussieu), Mathematics of Modeling, 2018
@@ -22,14 +22,14 @@ Education
 
 
 Working Papers
-======
+---
   <ul> {% for post in site.workingpapers %}
     {% include archive-single-cv.html %}
   {% endfor %} </ul>
 
 
 Research experience
-======
+---
 * Summer 2020: Graduate Research Assistant
   * Columbia University
   * Supervisor : Navin Kartik
@@ -51,7 +51,7 @@ Research experience
   
   
 Software
-======
+---
 * Matlab
 * R
 * Julia
@@ -60,26 +60,26 @@ Software
 * Latex
   
 Presentations
-======
+---
   <ul>{% for post in site.presentations %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+---
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
- Languages
-======
+Languages
+---
 * French (Native)
 * English (Fluent)
 * Spanish (Notions)
 * Italian, German, Russian, Hindi (Beginner)
   
 Other Activities
-======
+---
 * Music : Long-standing musical experience and practice, frequent concerts in semi- professional contexts, professional studio and home studio recordings, arrangement, composition, band-leading
    * Instruments Bass, Clarinet, Guitar, Tenor Saxophone, Keys.
    * Chiara & Cesar Trio (2016-) Bass/guitar/clarinet/vocals and band leader, frequent concerts, composition of original songs, recording ;
