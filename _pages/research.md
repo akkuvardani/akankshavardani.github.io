@@ -13,13 +13,20 @@ author_profile: true
 
 Below is a list of recent research work.
 
+Publications
+---
 
-Working Papers
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+<!-- Working Papers
 ---
 
 {% for post in site.workingpapers reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 
 Work in Progress
