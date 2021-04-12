@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "PhD Student in Economics"
+title: "Welcome !"
 excerpt: " "
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD Student in Economics at Columbia University, New York. I'm interested in (among many things) economic theory, mathematical economics, modeling, dynamic games, matching, search theory, labour economics. I also have work in Mathematics, centered around optimal transport and mean field games.
+
+I am a second year PhD Student in Economics at Columbia University, New York. 
+
+I am interested in economic theory, mathematical economics, modeling, dynamic games, search and matching. I also have work in Mathematics, centered around optimal transport and mean field games.
 
 Previously, I studied at Ecole Normale Superieure (ENS Ulm) in Paris. I obtained a M.A. in Economics from Paris School of Economics (Master APE) and a M.Sc. in Mathematics from Sorbonne University (UPMC-Jussieu).
