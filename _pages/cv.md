@@ -21,16 +21,16 @@ Education
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
 
-Working Papers
+Publications
 ---
-  <ul> {% for post in site.workingpapers %}
+  <ul> {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %} </ul>
 
 
 Research experience
 ---
-* Summer 2020: Graduate Research Assistant
+* Summer 2020 - Spring 2021 : Graduate Research Assistant
   * Columbia University
   * Supervisor : Navin Kartik
 
@@ -52,22 +52,21 @@ Research experience
   
 Software
 ---
+* Julia
 * Matlab
 * R
-* Julia
-* Python
 * STATA
 * Latex
   
 Presentations
 ---
-  <ul>{% for post in site.presentations %}
+  <ul>{% for post in site.presentations reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ---
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
