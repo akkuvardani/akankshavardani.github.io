@@ -32,6 +32,8 @@ Publications
 Work in Progress
 ---
 
+<b> The Dynamics of Conflict </b>, with [Duarte Gonçalves](https://duartegoncalves.com)
+
 
 Other work
 ---
