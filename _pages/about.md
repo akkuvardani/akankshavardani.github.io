@@ -21,13 +21,13 @@ You can find my [CV here](https://cesarbarilla.github.io/cv/) ([Direct Download]
 Publications
 ======
 
-* <b> [A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities) </b>,  
-with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry,  
+* <b> [A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities) </b>  
+with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry  
 Forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)
 
 
 Work in Progress
 ======
 
-* <b> The Dynamics of Conflict </b>,  
+* <b> The Dynamics of Conflict </b>  
 with [Duarte Gonçalves](https://duartegoncalves.com)
