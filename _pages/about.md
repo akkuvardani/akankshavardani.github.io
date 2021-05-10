@@ -15,7 +15,7 @@ I am interested in economic theory, mathematical economics, modeling, dynamic ga
 
 Previously, I studied at Ecole Normale Superieure (ENS Ulm) in Paris. I obtained a M.A. in Economics from Paris School of Economics (Master APE) and a M.Sc. in Mathematics from Sorbonne University (UPMC-Jussieu).
 
-You find [CV here](https://cesarbarilla.github.io/cv/) ([Direct Download](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
+You can find my [CV here](https://cesarbarilla.github.io/cv/) ([Direct Download](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
 
 
 Publications

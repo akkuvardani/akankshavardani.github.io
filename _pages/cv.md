@@ -13,9 +13,10 @@ Download my [full CV here](https://cesarbarilla.github.io/files/CV_Barilla_2020_
 
 Education
 ---
-<img src="{{site.url}}/694px-Columbia_University_shield.png" style="display: block; margin: auto;" /> 
-Ph.D in Economics, Columbia University, 2024 (expected)
-M
+<img src="{{site.url}}/694px-Columbia_University_shield.png" style="display: block; margin: auto;" />
+
+* Ph.D in Economics, Columbia University, 2024 (expected)
+
 * M.A. in Economics, Paris School of Economics, Masters Analysis and Economic Policy, 2019
 * M.Sc. in Mathematics, Sorbonne University (UPMC-Jussieu), Mathematics of Modeling, 2018
 * B.A. in Economics, Universite Paris Dauphine, 2016

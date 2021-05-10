@@ -6,7 +6,7 @@ excerpt: 'We propose a (toy) MFG model for the evolution of residents and firms 
 date: 2021-03-31
 venue: 'Journal of Dynamics and Games'
 paperurl: 'http://cesarbarilla.github.io/files/mfg-cities.pdf'
-citation: 'Cesar Barilla, Guillaume Carlier, Jean-Michel Lasry (2021). &quot; A Mean-Field Game Model for the Evolution of Cities&quot; <i>Journal of Dynamics and Games (forthcoming)</i> '
+citation: 'Cesar Barilla, Guillaume Carlier, Jean-Michel Lasry (2021). &quot;A Mean-Field Game Model for the Evolution of Cities&quot; <i>Journal of Dynamics and Games (forthcoming)</i> '
 authordate: 'Cesar Barilla, Guillaume Carlier, Jean-Michel Lasry (2021).'
 notes: 'Joint with Guillaume Carlier and Jean-Michel Lasry.'
 ---
