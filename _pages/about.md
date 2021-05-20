@@ -18,7 +18,7 @@ I am interested in economic theory broadly speaking. I also have work in Mathema
 
 I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Economics, and Sorbonne University (UPMC-Jussieu) in Paris.
 
-You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/), a short [CV here](https://cesarbarilla.github.io/cv/) (or [downlad my detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
+You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) (or [downlad my detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)).
 
 <!-- 
 Publications
