@@ -6,9 +6,12 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+excerpt: "I am a **third year PhD Student in Economics at Columbia University**, New York."
+header:
+  overlay_image: "/images/Morningside.jpg"
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> I am a **third year PhD Student in Economics at Columbia University**, New York. 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> 
 
 I work on **Economic Theory**. 
 
