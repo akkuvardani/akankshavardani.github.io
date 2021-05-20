@@ -41,5 +41,5 @@ with [Duarte Gonçalves](https://duartegoncalves.com)
 
 * Optimal transport coupling in multi-population mean field games : Matching equilibrium displacement and applications to urban planning  
 *2018 Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*  
- <p style="font-size:10px;">Superceded by [A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities)</p> 
+Superceded by [A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities) 
 
