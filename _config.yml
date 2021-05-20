@@ -178,16 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  workingpapers:
-    output: true
-    permalink: /:collection/:path/
-  otherworks:
-    output: true
-    permalink: /:collection/:path/        
-  presentations:
+  papers:
     output: true
     permalink: /:collection/:path/
 
