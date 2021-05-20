@@ -229,16 +229,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: false
-  # _otherworks
-  - scope:
-      path: ""
-      type: otherworks
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false             
+      comments: false          
   # _presentations
   - scope:
       path: ""

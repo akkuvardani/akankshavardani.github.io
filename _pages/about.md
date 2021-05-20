@@ -17,7 +17,7 @@ Previously, I studied at Ecole Normale Superieure (ENS Ulm) in Paris. I obtained
 
 You can find my [CV here](https://cesarbarilla.github.io/cv/) ([Direct Download](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
 
-
+<!-- 
 Publications
 ======
 
@@ -30,4 +30,4 @@ Work in Progress
 ======
 
 * <b> The Dynamics of Conflict </b>  
-with [Duarte Gonçalves](https://duartegoncalves.com)
+with [Duarte Gonçalves](https://duartegoncalves.com) -->
