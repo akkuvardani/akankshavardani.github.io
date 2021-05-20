@@ -2,20 +2,21 @@
 permalink: /
 title: "Welcome !"
 excerpt: " "
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="520" style="float: left; padding-right:15px"/>
 
-I am a second year PhD Student in Economics at Columbia University, New York. 
+I am a third year PhD Student in Economics at Columbia University, New York. 
 
 I am interested in economic theory, mathematical economics, modeling, dynamic games, search and matching. I also have work in Mathematics, centered around optimal transport and mean field games.
 
 Previously, I studied at Ecole Normale Superieure (ENS Ulm) in Paris. I obtained a M.A. in Economics from Paris School of Economics (Master APE) and a M.Sc. in Mathematics from Sorbonne University (UPMC-Jussieu).
 
-You can find my [CV here](https://cesarbarilla.github.io/cv/) ([Direct Download](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
+You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/), a short [CV here](https://cesarbarilla.github.io/cv/) (or [downlad my detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
 
 <!-- 
 Publications
