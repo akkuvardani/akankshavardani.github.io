@@ -10,9 +10,7 @@ header:
  overlay_image: /assets/images/007-18.jpg
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="300" height="300" style="float: left; padding-right:20px"/>
-
-I am a third year PhD Student in Economics at Columbia University, New York. 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="300" height="300" style="float: left; padding-right:20px"/> I am a third year PhD Student in Economics at Columbia University, New York. 
 
 I am interested in economic theory broadly speaking. I also have work in Mathematics on optimal transport and mean field games.
 
