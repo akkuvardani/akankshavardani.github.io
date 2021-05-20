@@ -14,9 +14,9 @@ header:
 
 I am a third year PhD Student in Economics at Columbia University, New York. 
 
-I am interested in economic theory, mathematical economics, modeling, dynamic games, search and matching. I also have work in Mathematics, centered around optimal transport and mean field games.
+I am interested in economic theory broadly speaking. I also have work in Mathematics on optimal transport and mean field games.
 
-Previously, I studied at Ecole Normale Superieure (ENS Ulm) in Paris. I obtained a M.A. in Economics from Paris School of Economics (Master APE) and a M.Sc. in Mathematics from Sorbonne University (UPMC-Jussieu).
+I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Economics, and Sorbonne University (UPMC-Jussieu) in Paris.
 
 You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/), a short [CV here](https://cesarbarilla.github.io/cv/) (or [downlad my detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf))
 
