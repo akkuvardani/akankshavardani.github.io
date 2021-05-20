@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="600" height="600" style="float: left; padding-right:20px"/>
+<img src="/images/Barilla_2.jpg" alt="drawing" width="300" height="300" style="float: left; padding-right:20px"/>
 
 I am a third year PhD Student in Economics at Columbia University, New York. 
 
