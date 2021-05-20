@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="300" height="300" style="float: left; padding-right:20px"/> I am a third year PhD Student in Economics at Columbia University, New York. 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> I am a **third year PhD Student in Economics at Columbia University**, New York. 
 
-I work on Economic Theory. I also have work in Mathematics on optimal transport and mean field games.
+I work on **Economic Theory**. 
+
+I also have work in **Mathematics** on Optimal Transport and Mean Field Games.
 
 I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Economics, and Sorbonne University (UPMC-Jussieu) in Paris.
-
-
-
 
 You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)).
 
