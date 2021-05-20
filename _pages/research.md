@@ -11,14 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-Below is a list of recent research work.
 
-Publications
----
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Publications
+
+* **[A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities)**  
+with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry  
+Forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)
 
 
 <!-- Working Papers
@@ -29,15 +28,15 @@ Publications
 {% endfor %} -->
 
 
-Work in Progress
----
+## Work in Progress
 
-<b> The Dynamics of Conflict </b>, with [Duarte Gonçalves](https://duartegoncalves.com)
+* **The Dynamics of Conflict**, with [Duarte Gonçalves](https://duartegoncalves.com)
 
 
-Other work
----
+## Other work
 
-{% for post in site.otherworks reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Stability with complementarities in decentralized many-to-one matching markets (*2019 Masters Thesis, M2 APE, PSE*)
+
+* Optimal transport coupling in multi-population mean field games : Matching equilibrium displacement and applications to urban planning (*2018 Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*)  
+Superceded by [A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities)
+
