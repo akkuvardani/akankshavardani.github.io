@@ -21,6 +21,8 @@ I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Econ
 
 You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)).
 
+***[Contact Me](mailto:cesar.barilla@columbia.edu)***
+
 <!-- 
 Publications
 ======
