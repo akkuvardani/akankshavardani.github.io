@@ -6,6 +6,8 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+header:
+ overlay_image: /assets/images/007-18.jpg
 ---
 
 <img src="/images/Barilla_2.jpg" alt="drawing" width="300" height="300" style="float: left; padding-right:20px"/>
