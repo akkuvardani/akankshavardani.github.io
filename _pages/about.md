@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.6
   actions:
   	- label: "Contact Me"
-  	   url: "mailto:cesar.barilla@columbia.edu"
+  	  url: "mailto:cesar.barilla@columbia.edu"
 ---
 
 <img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> 
