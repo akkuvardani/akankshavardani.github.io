@@ -22,13 +22,6 @@ Education
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
 
-Publications
----
-  <ul> {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %} </ul>
-
-
 Research experience
 ---
 * Summer 2020 - Spring 2021 : Graduate Research Assistant
@@ -50,7 +43,7 @@ Research experience
   * Subject : Theoretical modeling of financial instability, building on empirical work by Creel, Hubert, Labondance (2015)
   * Supervisor : Jerome Creel
   
-  
+
 Software
 ---
 * Julia
@@ -59,37 +52,11 @@ Software
 * STATA
 * Latex
   
-Presentations
----
-  <ul>{% for post in site.presentations reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
----
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Languages
 ---
 * French (Native)
 * English (Fluent)
 * Spanish (Notions)
-* Italian, German, Russian, Hindi (Beginner)
-  
-Other Activities
----
-* Music : Long-standing musical experience and practice, frequent concerts in semi- professional contexts, professional studio and home studio recordings, arrangement, composition, band-leading
-   * Instruments Bass, Clarinet, Guitar, Tenor Saxophone, Keys.
-   * Chiara & Cesar Trio (2016-) Bass/guitar/clarinet/vocals and band leader, frequent concerts, composition of original songs, recording ;
-   * Caravan quartet (2018-2019) Bass, private concerts for galas or cocktails, organisation of jam sessions ;
-   * Enswing Big Band (2017-2019) Bass (initially saxophone/clarinet), arranging, administrative and logistic responsibilities ;
-   * L'Ernestophone : Fanfare (brass band) of the ENS (2015?2017) Saxophone/clarinet, Musical and administrative direction ;
-   * Courses in music theory Department of Music Theory of the ENS (harmony and writing, "music and poetry", german romanticism) ;
-   * Side projects or former projects Band projects (rock, pop, folk, jazz), choir singing.
-   
-* Photography : Digital and 35mm film. Darkroom printing.
-
-* Sports : Squash, Tennis, formerly Kendo and Iaido.    
+* Italian, German, Russian, Hindi (Beginner)  
    

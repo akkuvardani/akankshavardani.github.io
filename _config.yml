@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Cesar Barilla"
   avatar           : "Barilla_2.jpg"
-  bio              : "PhD Student in Economics at Columbia University. </br> </br> Economic Theory."
+  bio              : "PhD Student in Economics at Columbia University."
   location         : "New York"
   employer         :
   pubmed           : 
@@ -203,7 +203,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -218,27 +218,18 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
+      author_profile: false
+      share: false
+      comments: false
+  # _papers
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _workingpapers
-  - scope:
-      path: ""
-      type: workingpapers
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _otherworks
   - scope:
       path: ""
@@ -255,7 +246,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
