@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Csr_B
+  username               : # &Csr_B
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Cesar Barilla"
   avatar           : "Barilla_2.jpg"
-  bio              : "PhD Student in Economics at Columbia University."
+  bio              : "PhD Student in Economics"
   location         : "New York"
-  employer         :
+  employer         : "Columbia University"
   pubmed           : 
   googlescholar    : 
-  email            : "cesar dot barilla at columbia dot edu"
+  email            : "cesar.barilla@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Csr_B"
+  twitter          : # "Csr_B"
   vine             :
   weibo            :
   xing             :
