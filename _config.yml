@@ -230,14 +230,6 @@ defaults:
       author_profile: true
       share: false
       comments: false          
-  # _presentations
-  - scope:
-      path: ""
-      type: presentations
-    values:
-      layout: talk
-      author_profile: true
-      share: false
 
 # Sass/SCSS
 sass:
