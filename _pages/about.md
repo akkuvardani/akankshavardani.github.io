@@ -11,9 +11,7 @@ header:
   overlay_filter: 0.6
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> 
-
-I work on **Economic Theory**. 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> I work on **Economic Theory**. 
 
 I also have work in **Mathematics** on Optimal Transport and Mean Field Games.
 
@@ -21,7 +19,7 @@ I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Econ
 
 You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)).
 
-***[Contact Me](mailto:cesar.barilla@columbia.edu){: .btn .btn--info}***
+[Contact Me](mailto:cesar.barilla@columbia.edu){: .btn .btn--info .btn--large}
 
 
 <!-- 
