@@ -16,8 +16,7 @@ author_profile: true
 ## Publications
 
 * **[A Mean-Field Game Model for the Evolution of Cities](http://cesarbarilla.github.io/research/mfg-cities)**  
-	with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry  
-	Forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)
+	with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry, forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)
 
 
 <!-- Working Papers
@@ -36,9 +35,9 @@ author_profile: true
 
 ## Older works
 
-* Stability with complementarities in decentralized many-to-one matching markets   
-	*2019 Masters Thesis, M2 APE, PSE*
+* **Stability with complementarities in decentralized many-to-one matching markets** (2019) 
+	*Masters Thesis, M2 APE, Paris School of Economics*
 
-* Optimal transport coupling in multi-population mean field games : Matching equilibrium displacement and applications to urban planning  
-	*2018 Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*  
+* **Optimal transport coupling in multi-population mean field games** (2018)
+	*Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*  
 
