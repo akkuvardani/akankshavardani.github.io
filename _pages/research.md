@@ -35,9 +35,9 @@ author_profile: true
 
 ## Older works
 
-* **Stability with complementarities in decentralized many-to-one matching markets** (2019) 
+* **Stability with complementarities in decentralized many-to-one matching markets** (2019)  
 	*Masters Thesis, M2 APE, Paris School of Economics*
 
-* **Optimal transport coupling in multi-population mean field games** (2018)
+* **Optimal transport coupling in multi-population mean field games** (2018)  
 	*Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*  
 
