@@ -15,9 +15,9 @@ author_profile: true
 
 ## Publications
 
-* <p style="color:red;"> A Mean-Field Game Model for the Evolution of Cities </p>  
-	with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry, forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)  
-	[abstract and figures](http://cesarbarilla.github.io/research/mfg-cities) | [paper](http://cesarbarilla.github.io/files/mfg-cities.pdf) | [slides](http://cesarbarilla.github.io/files/MFG-Cities_AMT20200922.pdf)
+* **A Mean-Field Game Model for the Evolution of Cities**  
+	<small> with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry, forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)  
+	[abstract and figures](http://cesarbarilla.github.io/research/mfg-cities) | [paper](http://cesarbarilla.github.io/files/mfg-cities.pdf) | [slides](http://cesarbarilla.github.io/files/MFG-Cities_AMT20200922.pdf) </small>
 
 
 
@@ -31,7 +31,7 @@ author_profile: true
 
 ## Work in Progress
 
-* <p style="color:red;"> The Dynamics of Conflict </p>  
+* **The Dynamics of Conflict**  
 	with [Duarte Gonçalves](https://duartegoncalves.com)
 
 
