@@ -17,7 +17,6 @@ author_profile: true
 
 * **A Mean-Field Game Model for the Evolution of Cities**  
 	with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry, forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)  
-	  
 	[abstract and figures](http://cesarbarilla.github.io/research/mfg-cities) | [paper](http://cesarbarilla.github.io/files/mfg-cities.pdf) | [slides](http://cesarbarilla.github.io/files/MFG-Cities_AMT20200922.pdf)
 
 
