@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-## Publications
+### Publications
 
 * **A Mean-Field Game Model for the Evolution of Cities**  
 	<small> with [Guillaume Carlier](https://www.ceremade.dauphine.fr/~carlier/) and Jean-Michel Lasry, forthcoming in [Journal of Dynamics and Games](https://www.aimsciences.org/article/doi/10.3934/jdg.2021017)  
@@ -29,17 +29,17 @@ author_profile: true
 {% endfor %} -->
 
 
-## Work in Progress
+### Work in Progress
 
 * **The Dynamics of Conflict**  
-	with [Duarte Gonçalves](https://duartegoncalves.com)
+	<small> with [Duarte Gonçalves](https://duartegoncalves.com) </small>
 
 
-## Older works
+### Older works
 
 * **Stability with complementarities in decentralized many-to-one matching markets** (2019)  
-	*Masters Thesis, M2 APE, Paris School of Economics*
+	<small> *Masters Thesis, M2 APE, Paris School of Economics* </small>
 
 * **Optimal transport coupling in multi-population mean field games** (2018)  
-	*Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu*  
+	<small> *Masters Thesis, M2 Mathematiques de la Modelisation, UPMC Jussieu* </small>
 
