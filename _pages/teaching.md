@@ -11,7 +11,7 @@ author_profile: true
 
 * **MA Math Camp** (*Summer 2021*)  
 [Economics MA, Columbia University](https://econ.columbia.edu/masters/)  
-Main Instructor ([Course Material](https://github.com/CesarBarilla/Columbia-MA-Math-Camp-2021))
+Main Instructor ([Course Page](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/))
 
 
 ### Teaching Assistant
