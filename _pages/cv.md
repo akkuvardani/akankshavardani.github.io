@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [full CV here](https://cesarbarilla.github.io/files/CV_Barilla_2020_detailed.pdf)
+Download my [full CV here](https://cesarbarilla.github.io/files/CV_Barilla_2021.pdf)
 
 Education
 ---
