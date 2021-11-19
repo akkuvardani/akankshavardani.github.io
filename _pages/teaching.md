@@ -16,7 +16,7 @@ Main Instructor ([Course Page](https://cesarbarilla.github.io/Columbia-MA-Math-C
 
 ### Teaching Assistant
 
-* **PhD Microeconomic Analysis II** (*Spring 2022*)
+* **PhD Microeconomic Analysis II** (*Spring 2022*)  
 [Economics PhD, Columbia University](https://econ.columbia.edu/phd/)  
 Teaching Assistant for Professors [Yeon-Koo Che](https://www.yeonkooche.com) and [Elliot Lipnowski](https://elliotlipnowski.com)
 
