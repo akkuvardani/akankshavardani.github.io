@@ -16,9 +16,13 @@ Main Instructor ([Course Page](https://cesarbarilla.github.io/Columbia-MA-Math-C
 
 ### Teaching Assistant
 
+* **PhD Microeconomic Analysis II** (*Spring 2022*)
+[Economics PhD, Columbia University](https://econ.columbia.edu/phd/)  
+Teaching Assistant for Professors [Yeon-Koo Che](https://www.yeonkooche.com) and [Elliot Lipnowski](https://elliotlipnowski.com)
+
 * **Math Methods for Economists** (*Fall 2021*)  
 [Economics MA, Columbia University](https://econ.columbia.edu/masters/)  
-Teaching Assistant for Professor 
+Teaching Assistant for Professor [Evan Sadler](http://www.evandsadler.com)
 
 * **Math Methods for Economists** (*Fall 2020*)  
 [Economics MA, Columbia University](https://econ.columbia.edu/masters/)  
