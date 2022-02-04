@@ -30,9 +30,10 @@ author_profile: true
 
 ### Working Papers
 
-* [**The Dynamics of Social Instability**](Barilla,%20Goncalves%20-%202022%20WP%20-%20The%20Dynamics%20of%20Social%20Instability.pdf)
-	<small> with [Duarte Gonçalves](https://duartegoncalves.com) </small>
+* [**The Dynamics of Social Instability**](Barilla,%20Goncalves%20-%202022%20WP%20-%20The%20Dynamics%20of%20Social%20Instability.pdf)  
+	<small> with [Duarte Gonçalves](https://duartegoncalves.com)  
 	[paper](Barilla,%20Goncalves%20-%202022%20WP%20-%20The%20Dynamics%20of%20Social%20Instability.pdf)
+	</small>
 
 ### Older works
 
