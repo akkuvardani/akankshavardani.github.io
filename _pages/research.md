@@ -28,11 +28,11 @@ author_profile: true
 {% endfor %} -->
 
 
-### Work in Progress
+### Working Papers
 
 * **The Dynamics of Conflict**  
 	<small> with [Duarte Gonçalves](https://duartegoncalves.com) </small>
-
+	[paper](Barilla,%20Goncalves%20-%202022%20WP%20-%20The%20Dynamics%20of%20Social%20Instability.pdf)
 
 ### Older works
 
