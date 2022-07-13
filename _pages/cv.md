@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my [full CV here](https://cesarbarilla.github.io/files/CV_Barilla_2021.pdf)
+Download my [full CV here](https://cesarbarilla.github.io/files/CV_2022.pdf)
 
 Education
 ---
@@ -21,42 +21,15 @@ Education
 * Eleve fonctionnaire stagiaire (Student Civil Servant), Ecole Normale Superieure (ENS Ulm), 2015-2019
 * CPGE B/L (Humanities and Social Sciences), Lycee Henri IV, 2013-2015
 
-
-Research experience
+Awards and Honors
 ---
-* Summer 2020 - Spring 2021 : Graduate Research Assistant
-  * Columbia University
-  * Supervisor : Navin Kartik
 
-* 2019 : Masters Thesis in Economics
-  * Paris School of Economics
-  * Subject : Many to one matching problem under complementarities with two-sided heterogeneity and applications to the labour market.
-  * Supervisor: Alfred Galichon (NYU)
-  
-* 2018 : Masters Thesis in Mathematics
-  * Universite Paris Sorbonne (UPMC-Jussieu)
-  * Subject : Optimal transport coupling in multi-populations mean-field games, dynamic matching equilibrium with externalities and applications to urban planning.
-  * Supervisors : Guillaume Carlier (CEREMADE), Jean-Michel Lasry (CEREMADE)
-  
-* Summer 2016: Research Assistant
-  * OFCE Paris
-  * Subject : Theoretical modeling of financial instability, building on empirical work by Creel, Hubert, Labondance (2015)
-  * Supervisor : Jerome Creel
-  
-
-Software
----
-* Julia
-* Matlab
-* R
-* STATA
-* Latex
-  
-  
-Languages
----
-* French (Native)
-* English (Fluent)
-* Spanish (Notions)
-* Italian, German, Russian, Hindi (Beginner)  
+* Vickrey Award for Best Third Year Paper, Columbia University Economics Department (2022)
+* PER Summer Research Stipend grant, Program for Economic Research, Columbia University (2022)
+* Lewis A. Sanders Fellowship in Economics, Columbia University (2021-2022)
+* Harris Award for Best Second Year Paper, Columbia University Economics Department (2021)
+* Research Fellow Summer Grant, Program for Economic Research, Columbia University (2020)
+* Economics Department Fellowship, Columbia University (2019-2024)
+* Dean's Fellowship, Columbia University (2019-2024)
+* Élève Fonctionaire Stagiaire, ENS Ulm, reçu au concours B/L (2015-2019)
    
