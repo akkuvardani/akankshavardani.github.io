@@ -15,9 +15,7 @@ header:
 
 I also have work in **Mathematics** on Optimal Transport and Mean Field Games.
 
-I previously studied at Ecole Normale Superieure (ENS Ulm), Paris School of Economics, and Sorbonne University (UPMC-Jussieu) in Paris.
-
-You can find [a list of relevant research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2021.pdf)).
+You can find [research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2021.pdf)).
 
 [Contact Me](mailto:cesar.barilla@columbia.edu){: .btn .btn--info .btn--large}
 
