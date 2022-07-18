@@ -18,8 +18,9 @@
 
 details,
 summary {
+  cursor: pointer;
   color: $light-gray;
-  font-size:.5em;
+  font-size: $type-size-6;;
 }
 
 .page {
