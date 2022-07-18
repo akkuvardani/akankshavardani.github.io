@@ -81,6 +81,13 @@ p, pre, blockquote, ul, ol, dl, figure, table, fieldset {
   widows: 3;
 }
 
+details,
+summary {
+  color: gray;
+  font-size: $type-size-8;
+}
+}
+
 /* abbreviations */
 
 abbr[title],
