@@ -16,6 +16,12 @@
   }
 }
 
+details,
+summary {
+  color: $light-gray;
+  font-size:.5em;
+}
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -105,15 +111,9 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
-
-  details,
-  summary {
-  color: $light-gray;
-  font-size:.5em;
 }
 
 
-}
 
 .page__hero {
   position: relative;
