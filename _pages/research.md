@@ -13,7 +13,7 @@ author_profile: true
 
 <style>
 details{
-  color: gray;
+  color: $light-gray;
   font-size:.5em;
 }
 </style>
@@ -27,8 +27,8 @@ details{
 		[abstract and figures](http://cesarbarilla.github.io/research/mfg-cities) | [paper](http://cesarbarilla.github.io/files/mfg-cities.pdf) | [slides](http://cesarbarilla.github.io/files/MFG-Cities_AMT20200922.pdf)  
 </small>
 
-	<details style="color:gray;font-size:$type-size-8;">
-		  <summary style="color:gray;font-size:$type-size-8;">Short abstract</summary>
+	<details style="color:$light-gray;font-size:$type-size-8;">
+		  <summary style="color:$light-gray;font-size:$type-size-8;">Short abstract</summary>
 			We propose a MFG model for the evolution of residents and firms densities, coupled both by labour market equilibrium conditions and competition for land use -- the former a new optimal transport coupling in a system of two HJB and two Fokker-Planck equations. This MFG has a convex potential which enables us to find weak solutions by a variational  approach. In the case of quadratic Hamiltonians, we reformulate the problem in Lagrangian terms and develop a numerical solution method. 
 	</details> 
 	
