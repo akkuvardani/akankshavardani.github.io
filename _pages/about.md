@@ -12,7 +12,7 @@ header:
 classes: wide
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left;" padding-right:20px/>  
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> 
 
 I work on **Economic Theory**. 
 
