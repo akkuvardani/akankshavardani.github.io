@@ -84,6 +84,19 @@
     }
   }
 
+  a.classred {color:red;}
+  a.classred:link  {text-decoration: none; color: red;}
+  a.classred:visited {text-decoration: none; color: red;}
+  a.classred:hover {text-decoration: underline; color: red;}
+  a.classred:active {text-decoration: none; color: red;}
+
+
+  a.classblue {color:blue;}
+  a.classblue:link {text-decoration: none; color: blue;}
+  a.classblue:visited {text-decoration: none; color: blue;}
+  a.classblue:hover {text-decoration: underline; color: blue;}
+  a.classblue:active {text-decoration: none; color: blue;}
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
