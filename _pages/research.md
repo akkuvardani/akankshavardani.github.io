@@ -11,7 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-
+<style>
+details{
+  color: gray;
+  font-size:.5em;
+}
+</style>
 
 ### Publications
 
