@@ -106,6 +106,15 @@
     padding-left: 1.25rem;
   }
 
+  details,
+  summary {
+  color: $light-gray;
+  font-size:.5em;
+}
+
+
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;
