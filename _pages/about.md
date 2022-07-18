@@ -9,6 +9,7 @@ excerpt: "I am a **third year PhD Student in Economics** at **Columbia Universit
 header:
   overlay_image: "http://cesarbarilla.github.io/images/Morningside.jpg"
   overlay_filter: 0.6
+classes: wide
 ---
 
 <img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> I work on **Economic Theory**. 
