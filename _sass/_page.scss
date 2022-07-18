@@ -18,9 +18,10 @@
 
 details,
 summary {
+  margin-top: .1em;
   cursor: pointer;
   color: $light-gray;
-  font-size: $type-size-6;;
+  font-size: $type-size-6;
 }
 
 .page {
@@ -62,6 +63,10 @@ summary {
     border-bottom: 1px solid $border-color;
   }
 
+  h3 {
+    color:$gray;
+  }
+
   p, li, dl {
     font-size: 1em;
   }
@@ -90,6 +95,12 @@ summary {
       }
     }
   }
+
+  a.darkgray {color:$darkgray;font-weight:bold;}
+  a.darkgray:link  {text-decoration: underline; color: $darkgray;}
+  a.darkgray:visited {text-decoration: none; color: $darkgray;}
+  a.darkgray:hover {text-decoration: underline; color: $darkgray;}
+  a.darkgray:active {text-decoration: none; color: $darkgray;}
 
   dt {
     margin-top: 1em;
