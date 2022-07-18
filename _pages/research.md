@@ -37,7 +37,7 @@ author_profile: true
 
 ### Working Papers
 
-* <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf" style="color:black;font-weight:bold;">The Dynamics of Social Instability</a>  
+* <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf" style="color:$dark-gray;font-weight:bold;">The Dynamics of Social Instability</a>  
 	<small> with [Duarte Gonçalves](https://duartegoncalves.com)  
 	[paper](http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf)
 	</small>
