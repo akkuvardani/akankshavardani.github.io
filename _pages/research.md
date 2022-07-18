@@ -38,7 +38,7 @@ author_profile: true
 * <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf" class="darkgray">The Dynamics of Social Instability</a>
 	<details>
 		  <summary>Short abstract</summary>
-			Even if pure instability does not generate any short term expected gains, players with opposed interests can use it to leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
+			Even if pure instability does not generate any short term expected gains, players with opposed interests can leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
 	</details>  
 	<small> with [Duarte Gonçalves](https://duartegoncalves.com)  
 <!-- 	[paper](http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf) -->
