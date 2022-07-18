@@ -12,7 +12,7 @@ header:
 classes: wide
 ---
 
-<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left; padding-right:20px"/> I work on **Economic Theory**. 
+<img src="/images/Barilla_2.jpg" alt="drawing" width="400" height="400" style="float: left;"/> I work on **Economic Theory**. 
 
 I also have work in **Mathematics** on Optimal Transport and Mean Field Games.
 
