@@ -96,11 +96,11 @@ summary {
     }
   }
 
-  a.darkgray {color:$darkgray;font-weight:bold;}
-  a.darkgray:link  {text-decoration: underline; color: $darkgray;}
-  a.darkgray:visited {text-decoration: none; color: $darkgray;}
-  a.darkgray:hover {text-decoration: underline; color: $darkgray;}
-  a.darkgray:active {text-decoration: none; color: $darkgray;}
+  a.darkgray {color:$dark-gray;font-weight:bold;}
+  a.darkgray:link  {text-decoration: underline; color: $dark-gray;}
+  a.darkgray:visited {text-decoration: none; color: $dark-gray;}
+  a.darkgray:hover {text-decoration: underline; color: $dark-gray;}
+  a.darkgray:active {text-decoration: none; color: $dark-gray;}
 
   dt {
     margin-top: 1em;
