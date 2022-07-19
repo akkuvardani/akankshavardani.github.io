@@ -9,9 +9,12 @@ author_profile: true
 
 ### Instructor
 
+* **Game Theory** (*Summer 2022*)  
+[Undergraduate Elective, Columbia University](https://econ.columbia.edu/masters/)   
+
 * **MA Math Camp** (*Summer 2021*)  
 [Economics MA, Columbia University](https://econ.columbia.edu/masters/)  
-Main Instructor ([Course Page](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/))
+<small> [Course Page](https://cesarbarilla.github.io/Columbia-MA-Math-Camp-2021/) </small>
 
 
 ### Teaching Assistant
