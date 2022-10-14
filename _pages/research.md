@@ -45,12 +45,12 @@ author_profile: true
 	</small>
 
 
-### Work in progress
+<!-- ### Work in progress
 
 * **Grandma, sing me a climatic lullaby? Historical origins of environmental preferences.**  
 <small> with [Palaash Bhargava](https://sites.google.com/view/palaashbhargava/home?authuser=0)
 	</small>
-
+ -->
 
 ### Older works
 
