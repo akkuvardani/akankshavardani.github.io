@@ -35,17 +35,22 @@ author_profile: true
 
 ### Working Papers
 
-* <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf" style="color:$dark-gray;font-weight:bold;">The Dynamics of Social Instability</a>
+* <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20-%202022c%20WP%20-%20The%20Dynamics%20of%20Instability.pdf" style="color:$dark-gray;font-weight:bold;">The Dynamics of Instability</a>
 	<details>
 		  <summary>Short abstract</summary>
 			Even if pure instability does not generate any short term expected gains, players with opposed interests can leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
 	</details>  
-	<small> with [Duarte Gonçalves](https://duartegoncalves.com)  
-<!-- 	[paper](http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20WP,%20The%20Dynamics%20of%20Social%20Instability.pdf) -->
+	<small> with [Duarte Gonçalves](https://duartegoncalves.com) 
+ <font size="-1" style="color:$dark-gray;">Last updated: 2022-11-23</font>
 	</small>
 
 
+<<<<<<< Updated upstream
 <!-- ### Work in progress
+=======
+
+### Work in progress
+>>>>>>> Stashed changes
 
 * **Grandma, sing me a climatic lullaby? Historical origins of environmental preferences.**  
 <small> with [Palaash Bhargava](https://sites.google.com/view/palaashbhargava/home?authuser=0)
