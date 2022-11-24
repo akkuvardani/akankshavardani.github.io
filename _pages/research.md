@@ -45,7 +45,6 @@ author_profile: true
 	</small>
 
 
-<<<<<<< Updated upstream
 <!-- ### Work in progress
 =======
 
