@@ -5,7 +5,7 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-excerpt: "I am a **third year PhD Student in Economics** at **Columbia University**, New York."
+excerpt: "I am a **fourth year PhD Student in Economics** at **Columbia University**, New York."
 header:
   overlay_image: "http://cesarbarilla.github.io/images/Morningside.jpg"
   overlay_filter: 0.6
@@ -18,7 +18,7 @@ I work on **Economic Theory**.
 
 I also have work in **Mathematics** on Optimal Transport and Mean Field Games.
 
-You can find [research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_Barilla_2021.pdf)).
+You can find [research work here](https://cesarbarilla.github.io/research/) and a short [CV here](https://cesarbarilla.github.io/cv/) ([detailed CV](https://cesarbarilla.github.io/files/CV_2022.pdf)).
 
 [Contact Me](mailto:cesar.barilla@columbia.edu){: .btn .btn--info .btn--large}
 
