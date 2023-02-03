@@ -41,20 +41,16 @@ author_profile: true
 			Even if pure instability does not generate any short term expected gains, players with opposed interests can leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
 	</details>  
 	<small> with [Duarte Gonçalves](https://duartegoncalves.com). 
-		Last updated: 2022-11-23. <a style="color:$dark-gray;"> (Revised and resubmitted) </a>
+		Last updated: 2022-11-23. <p style="color:$dark-gray;"> (Revised and resubmitted) </p>
 	</small>
 
-
-<!-- ### Work in progress
-=======
 
 ### Work in progress
->>>>>>> Stashed changes
 
-* **Grandma, sing me a climatic lullaby? Historical origins of environmental preferences.**  
+* **Cultural transmission and historical origins of beliefs about climate change.**  
 <small> with [Palaash Bhargava](https://sites.google.com/view/palaashbhargava/home?authuser=0)
 	</small>
- -->
+
 
 ### Older works
 
