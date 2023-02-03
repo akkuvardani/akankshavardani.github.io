@@ -47,7 +47,7 @@ author_profile: true
 
 ### Work in progress
 
-* **Cultural transmission and historical origins of beliefs about climate change.**  
+* **Cultural transmission and historical origins of beliefs about climate risk.**  
 <small> with [Palaash Bhargava](https://sites.google.com/view/palaashbhargava/home?authuser=0)
 	</small>
 
