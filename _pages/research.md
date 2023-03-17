@@ -13,7 +13,17 @@ author_profile: true
 
 ### Publications
 
-<!-- * [**A Mean-Field Game Model for the Evolution of Cities**](http://cesarbarilla.github.io/files/mfg-cities.pdf) -->  
+
+
+* <a href="http://cesarbarilla.github.io/files/Barilla%20Goncalves%20-%20The%20dynamics%20of%20instability%202023-03-13.pdf" style="color:$dark-gray;font-weight:bold;">The Dynamics of Instability</a>
+	<details>
+		  <summary>Short abstract</summary>
+			Even if pure instability does not generate any short term expected gains, players with opposed interests can leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
+	</details>  
+	<small> with [Duarte Gonçalves](https://duartegoncalves.com). 
+		forthcoming at [Theoretical Economics](https://econtheory.org).
+	</small>
+
 * <a href="http://cesarbarilla.github.io/files/mfg-cities.pdf" style="color:$dark-gray;font-weight:bold;">A Mean-Field Game Model for the Evolution of Cities</a>  
 	<details>
 		  <summary>Short abstract</summary>
@@ -25,25 +35,8 @@ author_profile: true
 	</small>
 
 
-<!-- Working Papers
----
 
-{% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
-
-
-### Working Papers
-
-* <a href="http://cesarbarilla.github.io/files/Barilla,%20Goncalves%20-%202022c%20WP%20-%20The%20Dynamics%20of%20Instability.pdf" style="color:$dark-gray;font-weight:bold;">The Dynamics of Instability</a>
-	<details>
-		  <summary>Short abstract</summary>
-			Even if pure instability does not generate any short term expected gains, players with opposed interests can leverage it to obtain long term changes. In equilibrium, the least favored player uses instability in a decreasing manner as we get closer to a stable state; long run outcome exhibit path dependency and can sustain high inequity. 
-	</details>  
-	<small> with [Duarte Gonçalves](https://duartegoncalves.com). 
-		Last updated: 2022-11-23. <span style="color:$dark-gray;"> (Revised and resubmitted) </span>
-	</small>
-
+<!-- ### Working Papers -->
 
 ### Work in progress
 
