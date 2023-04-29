@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cesar Barilla"
+title                    : "Akanksha Vardani"
 title_separator          : "-"
-name                     : &name "Cesar Barilla"
+name                     : &name "Akanksha Vardani"
 description              : &description "PhD Student in Economics"
-url                      : https://cesarbarilla.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://akankshavardani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cesarbarilla/cesarbarilla.github.io"
+repository               : "akankshavardani/akankshavardani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : # &Csr_B
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cesar Barilla"
+  name             : "Akanksha Vardani"
   avatar           : "Barilla_2.jpg"
   bio              : "PhD Student in Economics"
   location         : "New York"
   employer         : "Columbia University"
   pubmed           : 
   googlescholar    : 
-  email            : "cesar.barilla@columbia.edu"
+  email            : "av2906@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cesarbarilla"
+  github           : "akankshavardani"
   google_plus      :
   keybase          :
   instagram        :
