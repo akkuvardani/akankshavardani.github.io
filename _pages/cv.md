@@ -16,3 +16,4 @@ Education
 
 * Ph.D in Economics, Columbia University, 2025 (expected)
 * M.A. in Economics, Delhi School of Economics, 2018 
+* B.A. (Honors) in Economics, Delhi University, 2016
