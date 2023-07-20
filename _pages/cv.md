@@ -14,5 +14,5 @@ Download my [full CV here](https://akankshavardani.github.io/files/CV.pdf)
 Education
 ---
 
-* Ph.D in Economics, Columbia University, 2024 (expected)
-* M.A. in Economics, Delhi School of Economics
+* Ph.D in Economics, Columbia University, 2025 (expected)
+* M.A. in Economics, Delhi School of Economics, 2018 
