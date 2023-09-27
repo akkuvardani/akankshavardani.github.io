@@ -32,3 +32,4 @@ author_profile: true
 <small> with Tushar Kundu </small>
 
 * **Proximity to Village Leader and Tax Compliance**  
+<small> with Aneesha Parvathaneni </small>
