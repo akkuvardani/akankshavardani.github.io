@@ -25,11 +25,15 @@ author_profile: true
 * **House for Two: Empowering Women with Property Rights**  
 	<details>
 		  <summary>Short abstract</summary>
-			Distribution and ownership of land remain highly skewed towards men across the world. While there is an increasing focus in the policy sphere on bridging this gap, our understanding of how strengthening property rights impact women’s well-being is limited. This project runs a randomized experiment to study the impact of improving residential property rights for women on their welfare. In collaboration with the local government, the project runs an awareness campaign in rural villages in Pune, India, creating exogenous variation in the strength of realized women’s property rights. We study the effect of these improved rights on female empowerment through measures such as intra-household bargaining power, the incidence of domestic violence and land security.
+			Despite global efforts to improve gender parity in property ownership, the evidence on the impact of such initiatives remains mixed. One reason might be not recognizing documented ownership as different from effective ownership, which encompasses formal rights and social recognition of the rights. This study explores the gap between formal and effective rights by randomizing a household-level awareness campaign in a context where, despite women holding formal ownership, their effective rights remain weak, and beliefs about these rights varies across couples. I test how changing women effective rights impacts women’s empowerment by studying the effects on gendered allocation of household resources and domestic violence. Results show that the campaign significantly improves perceptions of women’s ownership, leading to increased expenditure on women-specific goods like clothing and a reduction in men’s alcohol consumption. However, there is no overall effect on domestic violence. To understand how pre-existing beliefs mediate these effects, I develop and test an intra-household bargaining model, finding that the strongest impacts on consumption occur in households with the lowest initial beliefs about women’s ownership, while domestic violence improves in households where the husband’s initial beliefs are lower than the wife’s.
 	</details>  
-
-* **Signaling in Female Education**  
-<small> with Tushar Kundu </small>
 
 * **Proximity to Village Leader and Tax Compliance**  
 <small> with Aneesha Parvathaneni </small>
+	<details>
+		  <summary>Short abstract</summary>
+How does being connected to a local elected leader affect property tax compliance? Using a close election difference-in-discontinuities design, we quantify the effect of being connected to a local elected leader on tax liability and compliance. We use novel administrative data on property taxation from an Indian district and find that citizens connected to local elected leaders are 45 percentage points more likely to remit taxes and remit 351% more in taxes. We also find that these results are partially driven by enforcement as those who are connected are 30.8 percentage points more likely to face fines and face 247% more in fines. Among those who are connected to the local elected leader, we find that these results are driven by poorer property owners.
+	</details>  
+	
+* **Signaling in Female Education**  
+<small> with Tushar Kundu </small>
