@@ -22,7 +22,7 @@ author_profile: true
 
 ### Work in Progress
 
-* **House for Two: Empowering Women with Property Rights (JMP)**  
+* ** A House for Two: Empowering Women with Property Rights (JMP)**  
 	<details>
 		  <summary>Abstract</summary>
 			Despite global efforts to improve gender parity in property ownership, the evidence on the impact of such initiatives remains mixed. One reason might be not recognizing documented ownership as different from effective ownership, which encompasses formal rights and social recognition of the rights. This study explores the gap between formal and effective rights by randomizing a household-level awareness campaign in a context where, despite women holding formal ownership, their effective rights remain weak, and beliefs about these rights varies across couples. I test how changing women effective rights impacts women’s empowerment by studying the effects on gendered allocation of household resources and domestic violence. Results show that the campaign significantly improves perceptions of women’s ownership, leading to increased expenditure on women-specific goods like clothing and a reduction in men’s alcohol consumption. However, there is no overall effect on domestic violence. To understand how pre-existing beliefs mediate these effects, I develop and test an intra-household bargaining model, finding that the strongest impacts on consumption occur in households with the lowest initial beliefs about women’s ownership, while domestic violence improves in households where the husband’s initial beliefs are lower than the wife’s.
