@@ -14,5 +14,5 @@ My primary areas of research are Development Economics, Public Economics, and Ec
 
 Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
 
-I am on the 2024-2025 Job Market.
+I am on the 2024-2025 Job Market. In my job market paper, I study the effect of improving women's property rights on their empowerment outcomes. I conduct a field experiment in Pune in collaboration with the local government and an NGO working on gender issues. For more details on the paper please refer to the <a href="https://akankshavardani.github.io/research/">Research</a> page.
 
