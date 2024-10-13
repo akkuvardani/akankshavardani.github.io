@@ -20,14 +20,16 @@ author_profile: true
 		forthcoming at [Theoretical Economics](https://econtheory.org).
 	</small> -->
 
-### Work in Progress
+## Job Market Paper
 
-* **A House for Two: Empowering Women with Property Rights (JMP)**  
+* **A House for Two: Empowering Women with Property Rights**  
 <small> Draft coming soon! </small>
 	<details>
 		  <summary>Abstract</summary>
 Despite global eﬀorts to advance gender parity in property ownership, evidence on the impact of these initiatives remains mixed. One potential reason is the failure to distinguish between documented ownership and eﬀective ownership, which includes both formal rights and social recognition - particularly by the woman herself and those around her, especially her husband. This study investigates the impact of improving women’s eﬀective property rights on their empowerment through a ﬁeld experiment in rural Maharashtra. I implement a randomized awareness campaign across 1,558 households, providing both spouses in the treatment group with information on women’s property rights and a physical copy of the ownership document. The campaign signiﬁcantly improves beliefs about women’s property rights, increasing expenditure on women-speciﬁc goods by 40% and reducing men’s alcohol consumption by 33%, though it has no overall eﬀect on domestic violence. I then develop and test an intra-household bargaining model, which highlights the role of pre-existing diﬀerences in spousal beliefs. Consistent with the model’s predictions, the strongest consumption eﬀects are observed in households with the lowest initial beliefs about women’s ownership, while reductions in domestic violence occur in households where the husband’s initial beliefs are lower than the wife’s. By focusing on eﬀective property rights, this paper opens the "black box" linking women’s property rights to empowerment, oﬀering insights into how beliefs shape the mixed evidence in the literature.
 	</details>  
+
+### Work in Progress
 
 * **Proximity to Village Leader and Tax Compliance**  
 <small> with Aneesha Parvathaneni </small>
