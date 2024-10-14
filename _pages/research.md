@@ -31,7 +31,7 @@ Despite global eﬀorts to advance gender parity in property ownership, evidence
 
 ### Work in Progress
 
-* **Proximity to Village Leader and Tax Compliance**  
+* **How do political connections affect property tax compliance?**  
 <small> with Aneesha Parvathaneni </small>
 	<details>
 		  <summary>Abstract</summary>
