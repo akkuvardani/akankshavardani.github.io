@@ -22,6 +22,3 @@ Columbia University
 Columbia University  
 Teaching Assistant for Professor [Susan Elmes](https://econ.columbia.edu/econpeople/susan-elmes/)  
 <small> Received Wueller Award for Best TA (Runners up) for Economics Undergraduate Courses </small>
-
-
-
