@@ -39,5 +39,11 @@ Despite global eﬀorts to advance gender parity in property ownership, evidence
 How does being connected to a local elected leader affect property tax compliance? Using a close election difference-in-discontinuities design, we quantify the effect of being connected to a local elected leader on tax liability and compliance. We use novel administrative data on property taxation from an Indian district and find that citizens connected to local elected leaders are 45 percentage points more likely to remit taxes and remit 351% more in taxes. We also find that these results are partially driven by enforcement as those who are connected are 30.8 percentage points more likely to face fines and face 247% more in fines. Among those who are connected to the local elected leader, we find that these results are driven by poorer property owners.
 	</details>  
 	
+* **Unpacking Willingness to Pay as a Measure of Women's Empowerment**  
+<small> with [Aletheia Donald](https://sites.google.com/view/aletheiadonald/about), [William Hickman](https://www.williamhickman.net/home) and [Berber Kramer](https://www.ifpri.org/profile/berber-kramer/) </small>
+
+* **Skills to Jobs: How Community and Household Networks Impact Women’s Workforce Entry**  
+<small> with [Tushar Kundu](https://tusharkundu.github.io/) </small>
+	
 * **Signaling in Female Education**  
-<small> with Tushar Kundu </small>
+<small> with [Tushar Kundu](https://tusharkundu.github.io/) </small>
