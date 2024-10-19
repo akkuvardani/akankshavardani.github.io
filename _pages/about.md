@@ -10,7 +10,7 @@ excerpt: "Fifth year Economics PhD Student"
 
 Hello ! I am an Economics PhD candidate at Columbia University.
 
-My primary areas of research are Development Economics, Public Economics, and Economics of Family and Gender. I was a NBER Gender in the Economy Fellow for 2023-2024.  
+I am a development economist with a focus on public economics, gender, and family economics. I was a NBER Gender in the Economy Fellow for 2023-2024.  
 
 Before Columbia, I received my bachelor’s degree in Economics from Delhi University in 2016 and my master’s degree in Economics from Delhi School of Economics in 2018. 
 
