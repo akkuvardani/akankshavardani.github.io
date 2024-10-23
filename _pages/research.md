@@ -30,7 +30,7 @@ Improving women’s access to property ownership is a commonly employed policy t
 	</details>  
 <small> Coverage: [Published across Maharashtra in Sakal Newspaper](https://www.dropbox.com/scl/fi/zqo8gtgdl3wg3cw7sq3yt/Sakal-article-HouseforTwo.jpeg?rlkey=7pal5uu6e1uqxib1ejhgt3dtn&st=akzejzfh&dl=0) </small>
 
-### Work in Progress
+	### Working Papers
 
 * **How do political connections affect property tax compliance?**  
 <small> with [Aneesha Parvathaneni](https://sites.google.com/view/aneeshaparvathaneni) </small>
@@ -38,6 +38,8 @@ Improving women’s access to property ownership is a commonly employed policy t
 		  <summary>Abstract</summary>
 How does being connected to a local elected leader affect property tax compliance? Using a close election difference-in-discontinuities design, we quantify the effect of being connected to a local elected leader on tax liability and compliance. We use novel administrative data on property taxation from an Indian district and find that citizens connected to local elected leaders are 45 percentage points more likely to remit taxes and remit 351% more in taxes. We also find that these results are partially driven by enforcement as those who are connected are 30.8 percentage points more likely to face fines and face 247% more in fines. Among those who are connected to the local elected leader, we find that these results are driven by poorer property owners.
 	</details>  
+	
+	### Work in Progress
 	
 * **Unpacking Willingness to Pay as a Measure of Women's Empowerment**  
 <small> with [Aletheia Donald](https://sites.google.com/view/aletheiadonald/about), [William Hickman](https://www.williamhickman.net/home) and [Berber Kramer](https://www.ifpri.org/profile/berber-kramer/) </small>
