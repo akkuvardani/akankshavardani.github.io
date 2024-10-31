@@ -22,8 +22,7 @@ author_profile: true
 
 ## Job Market Paper
 
-* **A House for Two: Empowering Women with Property Rights**  
-<small> Draft coming soon! </small>
+* **[A House for Two: Empowering Women with Property Rights](https://akankshavardani.github.io/files/Housefortwo_dropbox.pdf)**  
 	<details>
 		  <summary>Abstract</summary>
 Formal property ownership may not empower women unless it is understood by those they interact with. I study the effect of improving awareness about property rights on women’s empowerment through a field experiment in rural Maharashtra. I work in a setting where after a recent policy change married women are documented owners but only 26% believe they are. I randomize an awareness campaign across 1,783 households that informs both spouses that women co-own their property and delivers a physical copy of the ownership document. The campaign improves knowledge that women hold property rights, increases expenditure on women-specific goods by 40%, and reduces men’s alcohol consumption by 33%, though it has no overall effect on domestic violence. I develop and test an intra-household bargaining model, which highlights that the effect of the campaign may differ when the woman already knows but the spouse does not, and where neither know. Consistent with the model’s predictions, the strongest consumption effects are observed in households with the lowest initial beliefs about women’s ownership, while reductions in domestic violence occur in households where the husband’s initial beliefs are lower than the wife’s. This study highlights how shifting beliefs about women’s rights is essential to realizing the full impact of large-scale government programs.
@@ -32,7 +31,7 @@ Formal property ownership may not empower women unless it is understood by those
 
 ### Working Papers
 
-* **How do political connections affect property tax compliance?**  
+* **[How do political connections affect property tax compliance?](https://akankshavardani.github.io/files/Update_Tax_compliance_dropbox.pdf)**  
 <small> with [Aneesha Parvathaneni](https://sites.google.com/view/aneeshaparvathaneni) </small>
 	<details>
 		  <summary>Abstract</summary>
